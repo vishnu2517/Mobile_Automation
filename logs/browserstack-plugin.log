@@ -1,0 +1,46 @@
+11:27:30.350 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+11:27:30.360 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=1xKyyiXxvKMxnSQnMwU2, groupId=com.browserstack, BROWSERSTACK_APP=bs://sample.app, BROWSERSTACK_FRAMEWORK=java, version=1.0, PROJECT_NAME=BrowserStack Sample, archetypeVersion=1.4, archetypeGroupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=sanitha_xWfF9Y, BUILD_NAME=browserstack build, BROWSERSTACK_SOURCE=java:appium-eclipse:v1.0.8]
+11:27:30.364 [Worker-31: Launching mavenrun-6034faa3-611f-4bcf-886b-c252d3922abc] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:27:44.004 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:27:44.004 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:27:44.005 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/GreavesAutomationUpgarde
+11:27:44.005 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:27:44.005 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:27:44.005 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/GreavesAutomationUpgarde
+11:27:50.306 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:27:50.306 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:27:50.306 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/GreavesAutomationUpgarde
+11:27:50.306 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:27:50.307 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:27:50.307 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/GreavesAutomationUpgarde
+11:28:06.874 [Worker-25: Launching Executing test in _home_sanitha_eclipse-workspace_GreavesAutomationUpgarde] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:31:57.261 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:31:57.261 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:31:57.261 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/GreavesAutomationUpgarde
+11:31:57.262 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:31:57.262 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:31:57.262 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/GreavesAutomationUpgarde
+11:32:39.095 [Worker-25: Launching Executing test in _home_sanitha_eclipse-workspace_GreavesAutomationUpgarde] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:33:16.462 [Worker-32: Launching GreavesAutomationUpgarde_ExecutableFiles.Loginpage.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:33:16.463 [Worker-32: Launching GreavesAutomationUpgarde_ExecutableFiles.Loginpage.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+11:33:16.464 [Worker-32: Launching GreavesAutomationUpgarde_ExecutableFiles.Loginpage.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:33:16.465 [Worker-32: Launching GreavesAutomationUpgarde_ExecutableFiles.Loginpage.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+11:41:02.418 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:41:02.418 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:41:02.418 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/GreavesAutomationUpgarde
+11:41:02.418 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:41:02.418 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:41:02.418 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/GreavesAutomationUpgarde
+11:41:32.620 [Worker-32: Launching GreavesAutomationUpgarde_ExecutableFiles.Loginpage.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:41:32.621 [Worker-32: Launching GreavesAutomationUpgarde_ExecutableFiles.Loginpage.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+11:41:32.622 [Worker-32: Launching GreavesAutomationUpgarde_ExecutableFiles.Loginpage.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:41:32.622 [Worker-32: Launching GreavesAutomationUpgarde_ExecutableFiles.Loginpage.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+11:44:59.586 [Worker-29: Launching GreavesAutomationUpgarde_ExecutableFiles.Loginpage.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:44:59.587 [Worker-29: Launching GreavesAutomationUpgarde_ExecutableFiles.Loginpage.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+11:44:59.588 [Worker-29: Launching GreavesAutomationUpgarde_ExecutableFiles.Loginpage.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:44:59.588 [Worker-29: Launching GreavesAutomationUpgarde_ExecutableFiles.Loginpage.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+11:45:06.610 [Worker-29: Launching GreavesAutomationUpgarde_ExecutableFiles.Loginpage.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:45:27.543 [Worker-31: Launching GreavesAutomationUpgarde_ExecutableFiles.Loginpage.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+11:45:27.544 [Worker-31: Launching GreavesAutomationUpgarde_ExecutableFiles.Loginpage.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:45:27.545 [Worker-31: Launching GreavesAutomationUpgarde_ExecutableFiles.Loginpage.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+11:45:44.542 [Framework stop - Equinox Container: 80dd8dcd-bc5f-4f89-908e-7e3922ef75b0] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...

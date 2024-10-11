@@ -1,0 +1,20 @@
+userName: sanitha_xWfF9Y
+accessKey: 1xKyyiXxvKMxnSQnMwU2
+app: bs://cdbe1d1aef4ecd94a22dce982bc50db7740939bb
+platforms:
+  - platformName: android
+    deviceName: Samsung Galaxy S23 Ultra
+    platformVersion: 13.0
+  - platformName: android
+    deviceName: Google Pixel 7
+    platformVersion: 13.0
+  - platformName: android
+    deviceName: Samsung Galaxy S23
+    platformVersion: 13.0
+parallelsPerPlatform: 1    
+browserstackLocal: false
+buildName: bstack-demo
+buildIdentifier: ${BUILD_NUMBER}
+projectName: BrowserStack Sample
+debug: true
+networkLogs: true
